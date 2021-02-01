@@ -14,7 +14,7 @@ sudo dkpg -i cyberfox.deb
 ```
 
 2. Download Hackbar from assets folder
-3. Run CyberBrowser.. (this is for firefox mainly as CyberBrowser settings are ok)
+3. Run CyberBrowser.. (this is for firefox mainly as CyberBrowser settings are ok, carry on from about:addons)
 - 1. In the URL bar type "about:config" 
 - 2. Search for "xpinstall.signatures.required"
 - 3. Change this to false
