@@ -10,7 +10,7 @@ A great setup for SQL Injection, xss and xxe (plus a few more) on Kali
 
 *dkpg file install*
 ```
-sudo dkpg -i cyberfox.deb
+sudo dpkg -i cyberfox.deb
 ```
 
 2. Download Hackbar from assets folder
